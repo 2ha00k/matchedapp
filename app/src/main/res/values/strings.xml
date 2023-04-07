@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">matched</string>
+    <string name="reset_password_button_text">비밀번호 재설정</string>
+</resources>
